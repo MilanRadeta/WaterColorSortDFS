@@ -1,0 +1,30 @@
+{
+  "name": "watercolorsortdfs",
+  "version": "1.0.0",
+  "description": "Implementation of Depth-First Search for Water Color Sort puzzle solution",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MilanRadeta/WaterColorSortDFS.git"
+  },
+  "keywords": [
+    "Water Color Sort",
+    "Depth-First Search",
+    "TypeScript"
+  ],
+  "author": "Milan Radeta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MilanRadeta/WaterColorSortDFS/issues"
+  },
+  "homepage": "https://github.com/MilanRadeta/WaterColorSortDFS#readme",
+  "devDependencies": {
+    "@types/node": "^15.12.5",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.4"
+  }
+}
